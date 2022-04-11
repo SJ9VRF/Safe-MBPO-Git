@@ -1,1 +1,3 @@
-# Safe-MBPO-Git
+# Safe-MBPO-Colab
+
+Customized for running on Colab
